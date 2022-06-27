@@ -47,7 +47,8 @@ public class Ejecutor {
         for (int i = 0; i < pasajes.size(); i++) {
             
             System.out.printf("%s\n",
-                    pasajes.get(i));
+                    pasajes.get(i));//representacion del objeto
+            
             
         }
 
